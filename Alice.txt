@@ -2,4 +2,10 @@ Hi! I'm Alice. I'm a file someone added to this repository a while ago.
 add text on second line !!!!!!!
 Making some more changes
 Changing file from github remote repo !!
+<<<<<<< HEAD
 adding a line
+=======
+
+new line
+
+>>>>>>> change_alice
